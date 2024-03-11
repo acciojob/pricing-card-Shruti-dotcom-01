@@ -2,9 +2,8 @@
 .container{
 	width: 200px;
 	padding: 40px;
-	background-color: grey;
-	box-shadow: 5px;
-	
+	background-color: rgba(232, 227, 227, 0.967);
+	box-shadow: 30px solid black;
 }
 
 .btn{
@@ -12,6 +11,5 @@
 	background-color: orange;
 	color: white;
 	border-radius: 10px;
-	
+	border: none;
 }
-
